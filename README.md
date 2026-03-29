@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=Blur&color=0:00C6FF,100:0072FF&height=200&section=header&text=Hi,%20I%27m%20Hyeokjun&desc=%F0%9F%90%B3%20Backend%20Developer&fontSize=35&descSize=20&fontColor=ffffff&animation=fadeIn" />
+
+
 ## 👋 About Me
 
 - 🧑‍💻 백엔드 개발자로 성장 중인 장혁준입니다.
@@ -51,8 +54,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-7C3AED?style=for-the-badge)
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joon0329&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
