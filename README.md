@@ -55,6 +55,9 @@
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-7C3AED?style=for-the-badge)
 
+### 📚 Tech Blog
+![Link](https://velog.io/@jhj9903/posts)
+
 ## 📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joon0329&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
