@@ -8,7 +8,7 @@
 - 🤝 기술뿐 아니라 소통과 협업을 중요하게 생각합니다.
 - ⚙️ Java & Spring Boot 기반 API 서버 개발 경험이 있으며, Restful한 API를 위해 항상 고민합니다.
 - ☁️ AWS & Docker 기반 인프라 구성 및 GitHub Actions를 활용한 배포 경험이 있습니다.
-- 🤖 KT Aivle Schoole을 통해 AI 모델 활용과 서비스 적용 경험을 쌓았습니다.
+- 🤖 BrandPilot 서비스 개발을 통해 AI 모델 활용과 서비스 적용 경험을 쌓았습니다.
 - 📌 단순 기능 구현을 넘어 구조와 원리를 이해하는 개발자를 지향합니다.
 
 ## 💻 Tech Stack
@@ -54,6 +54,8 @@
 ![AI Agent](https://img.shields.io/badge/AI_Agent-5B21B6?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-7C3AED?style=for-the-badge)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj9903)](https://solved.ac/jhj9903/)
 
 ### 📚 Tech Blog
 ![Link](https://velog.io/@jhj9903/posts)
