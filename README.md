@@ -13,6 +13,9 @@
 
 ## 💻 Tech Stack
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj9903)](https://solved.ac/jhj9903/)
+
+
 ### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,8 +57,6 @@
 ![AI Agent](https://img.shields.io/badge/AI_Agent-5B21B6?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-7C3AED?style=for-the-badge)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj9903)](https://solved.ac/jhj9903/)
 
 ### 📚 Tech Blog
 ![Link](https://velog.io/@jhj9903/posts)
